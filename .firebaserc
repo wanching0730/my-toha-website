@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "my-website-bae93"
+  },
+  "targets": {
+    "my-website-bae93": {
+      "hosting": {
+        "website": [
+          "my-website-bae93"
+        ]
+      }
+    }
   }
 }
