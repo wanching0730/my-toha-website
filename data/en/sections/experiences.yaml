@@ -1,0 +1,63 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+
+experiences:
+- company:
+    name: GovTech Singapore
+    url: "https://www.tech.gov.sg/"
+    location: Singapore
+    overview: The Government Technology Agency of Singapore (GovTech) spearheads Singapore's digital government transformation and development of the public sector’s engineering capabilities to build a Smart Nation for our citizens and businesses.
+  positions:
+  - designation: Software Engineer (I)
+    start: Oct 2021
+    responsibilities:
+    - Backend Serverless development
+    - Frontend web development
+    - Contribute to DevOps implementation
+    - Skills - AWS, Terraform, Node (TypeScript), Angular, NoSQL, Jira, Agile Scrum, Bash script, Serverless
+
+- company:
+    name: CRIF BizInsights Pte Ltd
+    url: "https://www.bizinsights.net/"
+    location: Singapore
+    overview: BizInsights is a leading provider of corporate information in Singapore wholly owned by CRIF S.p.A., Italy.. As a licensee of the Accounting and Corporate Regulatory Authority of Singapore (ACRA), our worldwide customers have access to the latest official information to make informed business decisions.
+  positions:
+  - designation: Software Developer
+    start: Jun 2020
+    end: Sept 2021
+    responsibilities:
+    - Web application development for customer facing systems
+    - Data cleaning and processing to provide desired data report to customers
+    - Led SEO project with external party
+    - Skills - Python, React, Node (JavaScript), AWS, MySQL, Jira, Agile Scrum
+
+- company:
+    name: Daily Vanity Pte Ltd
+    url: "https://dailyvanity.sg/"
+    location: Singapore
+    overview: Daily Vanity is Singapore's No.1 beauty media and Malaysia's fastest growing online beauty magazine! We have been growing fast and stronger every year since 2013 and our beauty content are well-loved by readers all over Singapore and Malaysia!
+  positions:
+  - designation: Junior Web Developer
+    start: Jun 2019
+    end: Jun 2020
+    responsibilities:
+    - Led Web application development for company internal system and customer facing systems
+    - Skills - React, Node (JavaScript), WordPress, AWS, Docker, MySQL, Jira, Agile Scrum
+
+- company:
+    name: FusionEx International
+    url: "https://www.fusionexgroup.com/"
+    location: Malaysia
+    overview: Fusionex is a global, multi-award winning data technology provider with a strong worldwide presence. Fusionex works with many fortune 500 clients in the United States, Europe as well as the Asia Pacific region, bringing innovative and breakthrough ideas and solutions to its clients.
+  positions:
+  - designation: Internship Trainee
+    start: Oct 2018
+    end: Dec 2018
+    responsibilities:
+    - Web development
+    - Skills - ASP.NET, DotNetNuke, Visual Studio Team Services, CRM, T-SQL, Agile Scrum

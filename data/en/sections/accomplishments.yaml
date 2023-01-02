@@ -1,0 +1,34 @@
+# section information
+section:
+  name: Accomplishments
+  id: accomplishments
+  enable: true
+  weight: 7
+  showOnNavbar: true
+
+# Your accomplishments
+accomplishments:
+- name: Certified ScrumMaster (CSM) (Certificate)
+  timeline: "Dec 2021"
+  organization:
+    name: Scrum Alliance
+    url: "#"
+  courseOverview: Becoming a scrum master which is the scrum team member tasked with fostering an effective and productive working environment and guiding others to understand scrum values, principles and practices.
+  certificateURL: "https://bcert.me/skxcjikha"
+
+- name: AWS Certified Solutions Architecture - Associate (Certificate)
+  timeline: "Nov 2020"
+  organization:
+    name: Amazon Web Services
+    url: "#"
+  courseOverview: Associate showcases knowledge and skills in AWS technology, across a wide range of AWS services. The focus of this certification is on the design of cost and performance optimized solutions, demonstrating a strong understanding of the AWS Well-Architected Framework.
+  certificateURL: "https://www.youracclaim.com/badges/8b079eab-fd28-4c4d-b915-8189652fd75a?source=linked_in_profile"
+
+- name: Big Data on AWS (Course)
+  timeline: "June 2020"
+  organization:
+    name: Amazon Web Services
+    url: "#"
+  courseOverview: This course is a study guide for preparing for AWS Certified Big Data Specialty exam. Focus is on hands on learning.
+  certificateURL: "#"
+ 

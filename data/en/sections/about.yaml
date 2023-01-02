@@ -1,0 +1,64 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Software Engineer
+# your company information
+company:
+  name: GovTech Singapore
+  url: "https://www.tech.gov.sg/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'Cayenne is a full time Software Engineer, AWS Certified Solutions Architect who is currently working in Singapore, with experience in cloud, web development, data analytics and project management.
+Although she is fueled by her passion in the career field, she always ensures and maintains a healthy work-life balance. She is sociable and sportive during non-working times. She believes that mindfulness is a key to success in every aspect. She lives out through her interests in working out, jogging, photographing, cooking, sharing, writing blogs, reading and listening to music.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/wanching0730"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/wan-ching-teoh-024529148"
+- name: Blog
+  icon: "fa fa-pencil"
+  url: "https://blog.wanchingteoh.me/"
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "https://stackoverflow.com/users/8296469/cayenne-teoh"
+- name: Email
+  icon: "fa fa-envelope"
+  url: "wanching_97@hotmail.com"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Time Management
+  percentage: 90
+  color: blue
+- name: Team Work
+  percentage: 90
+  color: blue
+- name: Leadership
+  percentage: 75
+  color: orange
+- name: Problem Solving
+  percentage: 75
+  color: orange
+- name: Communication
+  percentage: 65
+  color: yellow
+- name: Creativity
+  percentage: 60
+  color: yellow

@@ -4,43 +4,99 @@
 
 /* Large screens such as TV */
 @media only screen and (min-width: 1824px) {
+    .initial-navbar li a {
+        color: black;
+    }
 }
 
 /* Extra large devices (large desktops, 1200px and up) */
 
 @media (max-width: 1400px) {
+    .initial-navbar li a {
+        color: black;
+    }
 }
 
 @media (max-width: 1200px) {
+    .initial-navbar li a {
+        color: black;
+    }
 }
 
 /* IPad Pro */
 @media (max-width: 1024px) {
+    .initial-navbar li a {
+        color: black;
+    }
 }
 
 /*  Large devices (desktops, 992px and up) */
 
 @media (max-width: 992px) {
+    .initial-navbar li a {
+        color: black;
+    }
 }
 
 /* Medium devices (tablets, 768px and up) */
 
 @media only screen and (max-width: 768px) {
+    .initial-navbar li a {
+        color: black;
+    }
 }
 
 /* Small devices (landscape phones, 576px and up) */
 
 @media only screen and (max-width: 576px) {
+    .initial-navbar li a {
+        color: black;
+    }
+
+    .initial-navbar .navbar-brand {
+        color: white
+    }
 }
 
 /* iPhoneX, iPhone 6,7,8 */
 @media only screen and (max-width: 375px) {
+    .initial-navbar li a {
+        color: black;
+    }
+
+    .initial-navbar .navbar-brand {
+        color: white
+    }
 }
 
 /* Galaxy S5, Moto G4 */
 @media only screen and (max-width: 360px) {
+    .initial-navbar li a {
+        color: black;
+    }
+
+    .initial-navbar .navbar-brand {
+        color: white
+    }
 }
 
 /* iPhone 5 or before */
 @media only screen and (max-width: 320px) {
+    .initial-navbar li a {
+        color: black;
+    }
+
+    .initial-navbar .navbar-brand {
+        color: white
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .dynamic-navbar .navbar-icon-svg-dark {
+        filter: none;
+    }
+
+    .initial-navbar .navbar-brand {
+        color: white
+    }
 }

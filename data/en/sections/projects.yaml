@@ -1,0 +1,69 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Web
+  filter: "web"
+- name: Mobile
+  filter: "mobile"
+- name: Personal
+  filter: "personal"
+
+# your projects
+projects:
+- name: Personal Website
+  logo: /images/sections/projects/web.png
+  role: Main Developer
+  timeline: "Present"
+  repo: https://github.com/wanching0730/my-toha-website
+  summary: A portfolio about myself in my career, life and experience.
+  tags: ["personal", "web", "hugo", "firebase", "github-action"]
+
+- name: Personal Life Blog
+  logo: /images/sections/projects/web.png
+  role: Main Developer
+  timeline: "Present"
+  repo: https://github.com/wanching0730/hugo-blog
+  summary: Blog for sharing about my opinions and knowledge towards life.
+  tags: ["personal", "web", "hugo", "markdown", "firebase", "github-action"]
+
+- name: USEIS-fyp
+  logo: /images/sections/projects/aws.png
+  role: Main Developer
+  timeline: "2019"
+  repo: https://github.com/wanching0730/USEIS-fyp 
+  summary: A progressive web application which is a co-curriculum management system that used to keep track of University's societies and events information.
+  tags: ["web", "flask", "react", "mysql", "aws", "firebase"]
+
+- name: Pocket Health Advisor (Web)
+  logo: /images/sections/projects/web.png
+  role: Main Developer
+  timeline: "2018"
+  repo: https://github.com/wanching0730/angular-hospital-2
+  #url: ""
+  summary: A web application for reception counter in a hospital to handle patients' enquiries.
+  tags: ["web", "angular","typescript"]
+
+- name: Pocket Health Advisor (Mobile)
+  logo: /images/sections/projects/web.png
+  role: Co-Developer
+  timeline: "2018"
+  repo: https://github.com/WLun001/pocket-health-advisor
+  summary: A mobile application that makes healthcare easier.
+  tags: ["mobile", "firebase", "dialogflow", "googlemap", "sinch", "braintree"]
+
+- name: Birthday Reminder
+  logo: /images/sections/projects/web.png
+  role: Main Developer
+  timeline: "2017"
+  repo: https://github.com/wanching0730/Birthday-Reminder-2
+  summary: An Android application that is able to send notification when one's birthday is reaching.
+  tags: ["mobile", "java"]

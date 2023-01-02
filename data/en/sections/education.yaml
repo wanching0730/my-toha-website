@@ -1,0 +1,51 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html 
+  enable: true
+  weight: 4
+  showOnNavbar: true
+
+degrees:
+- name: Bachelor of Science, Software Engineering
+  icon: fa-graduation-cap
+  timeframe: 2016-2019
+  institution:
+    name: Universiti Tunku Abdul Rahman (UTAR)
+    url: "https://www.utar.edu.my/"
+  grade: #(optional)
+    scale: CGPA
+    achieved: 3.64
+    outOf: 4
+  extracurricularActivities: #(optional)
+  - Chairperson of IT Society
+  - Secretary of First Aid Society
+  - HOD of Logistics Department, Programme Department (UTAR Event) 
+  - Assistant of Refreshment Department, Editorial Department (UTAR Event) 
+  - Secretary of UTAR Orientation Week 
+  - Duty Master of UTAR Blood Donation 
+  - Member of UTAR Yoga Society
+- name: Foundation In Science
+  icon: fa-graduation-cap
+  timeframe: 2015 - 2016
+  institution:
+    name: Universiti Tunku Abdul Rahman (UTAR)
+    url: "https://www.utar.edu.my/"
+  grade: #(optional)
+    scale: CGPA
+    achieved: 3.8
+    outOf: 4
+  extracurricularActivities: #(optional)
+  - Member of IT Society
+  - Member of First Aid Society
+  - Member of UTAR Yoga Society
+- name: Secondary School Certificate
+  icon: fa-university
+  timeframe: 2010-2014
+  institution:
+    name: Jit Sin High School
+    url: "#"
+  extracurricularActivities: #(optional)
+  - Chairperson of Jit Sin Girl Guide (Uniform Body)
+  - Secretary of Cultural Society

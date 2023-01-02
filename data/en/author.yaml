@@ -1,0 +1,18 @@
+# some information about you
+name: "Cayenne Teoh"
+nickname: "Cayenne"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/cayenne.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "wanching_97@hotmail.com"
+  phone: "+65 90681491"
+
+# some summary about what you do
+summary:
+  - I am a Software Engineer
+  - I am a Malaysian
+  - I live in Singapore
+  - I love to read and exercise
+  - I am a foodie and coffee lover

@@ -1,0 +1,38 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Frontend Engineering
+  logo: "/images/sections/skills/react.png"
+  summary: "Using React and Angular as main frameworks for most of the Frontend development. Explored other trending frameworks such as Svelte, Next.js and Vue."
+  url: "https://kubernetes.io/"
+
+- name: Backend Engineering
+  logo: "/images/sections/skills/node.png"
+  summary: "Using Node in TypeScript and JavaScript for most of the Backend development. Experienced with Python as well for API development and web crawling."
+  url: "https://golang.org/"
+
+- name: Cloud Computing
+  logo: "/images/sections/skills/aws.png"
+  summary: "Worked mostly with AWS for CI/CD, application, databases and operational monitoring. Explored other cloud platforms such as GCP and Firebase for authentication, hosting and databases."
+
+- name: Infrastructure as Code (IaC)
+  logo: "/images/sections/skills/terraform.png"
+  summary: "Familiar with Terraform. Authored Terraform code to deploy AWS resources in production. Experienced in Terraform resource migration in an automated manner using bash script and Terraform state management commands."
+
+- name: Database
+  logo: "/images/sections/skills/database.png"
+  summary: "Experienced in MySQL, Transact-SQL and No-SQL databases (Key-value databases). Explored other No-SQL databases such as Document databases and Graph databases."
+
+- name: DevOps
+  logo: "/images/sections/skills/devops.png"
+  summary: "Contributed to infrastructure deployment in production by preparing deployment tickets and authoring Terraform code. Authored Terraform code to automate Blue-Green deployment in production using AWS resources. Auothored bash script in Bamboo Plan to provision Terraform resources. Resolved AWS Security Hub findings to maintain a secure infrastructure."
